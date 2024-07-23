@@ -1,0 +1,335 @@
+{
+    "films": [
+        {
+        "nameFilm": "Fight Club",
+        "releaseYear": "1999",
+        "filmGenre": ["Drama", "Thriller"],
+        "musicalGenres": ["Rock", "Electronic"],
+        "music": [
+            "Where Is My Mind? - Pixies",
+            "Goin' Out West - Tom Waits",
+            "What Is Fight Club? - The Dust Brothers",
+            "Psycho Boy Jack - The Dust Brothers",
+            "Medulla Oblongata - The Dust Brothers"
+        ]
+        },
+        {
+        "nameFilm": "Spirited Away",
+        "release year": "2001",
+        "filmGenre": ["Animation", "Adventure", "Family", "Fantasy"],
+        "musicalGenres": ["Soundtrack", "Classical"],
+        "music": [
+            "One Summer's Day - Joe Hisaishi",
+            "The Sixth Station - Joe Hisaishi",
+            "Reprise - Joe Hisaishi",
+            "The Name of Life - Joe Hisaishi",
+            "Day of the River - Joe Hisaishi"
+        ]
+        },
+        {
+        "nameFilm": "Akira",
+        "release year": "1988",
+        "filmGenre": ["Animation", "Action", "Drama", "Sci-Fi"],
+        "musicalGenres": ["Soundtrack", "Electronic", "Traditional"],
+        "music": [
+            "Kaneda - Geinoh Yamashirogumi",
+            "Battle Against Clown - Geinoh Yamashirogumi",
+            "Tetsuo - Geinoh Yamashirogumi",
+            "Shohmyoh - Geinoh Yamashirogumi",
+            "Requiem - Geinoh Yamashirogumi"
+        ]
+        },
+        {
+        "nameFilm": "Hereditary",
+        "release year": "2018",
+        "filmGenre": ["Drama", "Horror", "Mystery", "Thriller"],
+        "musicalGenres": ["Soundtrack", "Classical"],
+        "music": [
+            "Funeral - Colin Stetson",
+            "Brother and Sister - Colin Stetson",
+            "Charlie - Colin Stetson",
+            "Mothers & Daughters - Colin Stetson",
+            "Reborn - Colin Stetson"
+        ]
+        },
+        {
+        "nameFilm": "Catch Me If You Can",
+        "release year": "2002",
+        "filmGenre": ["Biography", "Crime", "Drama"],
+        "musicalGenres": ["Jazz", "Soundtrack"],
+        "music": [
+            "Catch Me If You Can - John Williams",
+            "The Float - John Williams",
+            "Recollections (The Father's Theme) - John Williams",
+            "Learning the Ropes - John Williams",
+            "The Flash Comics Clue - John Williams"
+        ]
+        },
+    
+        {
+        "nameFilm": "Submarine",
+        "release year": "2010",
+        "filmGenre": ["Comedy", "Drama", "Romance"],
+        "musicalGenres": ["Indie Rock", "Folk", "Soundtrack"],
+        "music": [
+        "Stuck on the Puzzle (Intro) - Alex Turner",
+        "Hiding Tonight - Alex Turner",
+        "Glass in the Park - Alex Turner",
+        "It's Hard to Get Around the Wind - Alex Turner",
+        "Stuck on the Puzzle - Alex Turner",
+        "Piledriver Waltz - Alex Turner"
+        ]
+    },
+    {
+        "nameFilm": "Her",
+        "release year": "2013",
+        "filmGenre": ["Drama", "Romance", "Sci-Fi"],
+        "musicalGenres": ["Soundtrack", "Ambient", "Indie"],
+        "music": [
+        "Supersymmetry - Arcade Fire",
+        "Milk & Honey #1 - Arcade Fire",
+        "Loneliness #3 (Night Talking) - Arcade Fire",
+        "Divorce Papers - Arcade Fire",
+        "Song on the Beach - Arcade Fire",
+        "Photograph - Arcade Fire",
+        "Milk & Honey #2 - Arcade Fire",
+        "We're All Leaving - Arcade Fire",
+        "Dimensions - Arcade Fire"
+        ]
+    },
+    {
+        "nameFilm": "Drive",
+        "release year": "2011",
+        "filmGenre": ["Action", "Drama"],
+        "musicalGenres": ["Electronic", "Synthwave"],
+        "music": [
+        "Nightcall - Kavinsky",
+        "A Real Hero - College & Electric Youth",
+        "Under Your Spell - Desire",
+        "Tick of the Clock - Chromatics",
+        "I Drive - Cliff Martinez"
+        ]
+    },
+    {
+        "nameFilm": "The Matrix",
+        "release year": "1999",
+        "filmGenre": ["Action", "Sci-Fi"],
+        "musicalGenres": ["Rock", "Electronic"],
+        "music": [
+        "Clubbed to Death - Rob Dougan",
+        "Spybreak! - Propellerheads",
+        "Dragula - Rob Zombie",
+        "Mindfields - The Prodigy",
+        "Wake Up - Rage Against the Machine"
+        ]
+    },
+    {
+        "nameFilm": "Amélie",
+        "release year": "2001",
+        "filmGenre": ["Comedy", "Romance"],
+        "musicalGenres": ["Soundtrack", "Classical"],
+        "music": [
+        "Comptine d'un autre été: L'après-midi - Yann Tiersen",
+        "La valse d'Amélie - Yann Tiersen",
+        "Les jours tristes - Yann Tiersen",
+        "L'autre valse d'Amélie - Yann Tiersen",
+        "La noyée - Yann Tiersen"
+        ]
+    },
+    {
+        "nameFilm": "The Piano",
+        "release year": "1993",
+        "filmGenre": ["Drama", "Romance"],
+        "musicalGenres": ["Soundtrack", "Classical"],
+        "music": [
+        "The Heart Asks Pleasure First - Michael Nyman",
+        "Big My Secret - Michael Nyman",
+        "The Promise - Michael Nyman",
+        "Here to There - Michael Nyman",
+        "The Scent of Love - Michael Nyman"
+        ]
+    },
+    {
+        "nameFilm": "Ghost in the Shell",
+        "release year": "1995",
+        "filmGenre": ["Animation", "Action", "Sci-Fi"],
+        "musicalGenres": ["Soundtrack", "Electronic", "Traditional"],
+        "music": [
+        "Making of Cyborg - Kenji Kawai",
+        "Ghosthack - Kenji Kawai",
+        "Nightstalker - Kenji Kawai",
+        "Floating Museum - Kenji Kawai",
+        "Virtual Crime - Kenji Kawai"
+        ]
+    },
+    {
+        "nameFilm": "Blade Runner",
+        "release year": "1982",
+        "filmGenre": ["Sci-Fi", "Thriller"],
+        "musicalGenres": ["Soundtrack", "Electronic", "Ambient"],
+        "music": [
+        "Blade Runner (End Titles) - Vangelis",
+        "Memories of Green - Vangelis",
+        "Blade Runner Blues - Vangelis",
+        "Tales of the Future - Vangelis",
+        "Damask Rose - Vangelis"
+        ]
+    },
+    {
+        "nameFilm": "La La Land",
+        "release year": "2016",
+        "filmGenre": ["Comedy", "Drama", "Music", "Romance"],
+        "musicalGenres": ["Jazz", "Soundtrack"],
+        "music": [
+        "Another Day of Sun - Justin Hurwitz",
+        "City of Stars - Ryan Gosling & Emma Stone",
+        "Mia & Sebastian’s Theme - Justin Hurwitz",
+        "A Lovely Night - Ryan Gosling & Emma Stone",
+        "Planetarium - Justin Hurwitz"
+        ]
+    },
+    {
+        "nameFilm": "Whiplash",
+        "release year": "2014",
+        "filmGenre": ["Drama", "Music"],
+        "musicalGenres": ["Jazz", "Soundtrack"],
+        "music": [
+        "Whiplash - Hank Levy",
+        "Caravan - Juan Tizol & Duke Ellington",
+        "Too Hip to Retire - Tim Simonec",
+        "Upswingin' - Tim Simonec",
+        "Overture - Justin Hurwitz"
+        ]
+    },
+    {
+        "nameFilm": "The Polar Express",
+        "release year": "2004",
+        "filmGenre": ["Animation", "Adventure", "Family"],
+        "musicalGenres": ["Soundtrack", "Christmas"],
+        "music": [
+        "Believe - Josh Groban",
+        "Hot Chocolate - Tom Hanks",
+        "When Christmas Comes to Town - Matthew Hall & Meagan Moore",
+        "Spirit of the Season - Alan Silvestri",
+        "Seeing is Believing - Alan Silvestri"
+        ]
+    },
+    {
+        "nameFilm": "Juno",
+        "release year": "2007",
+        "filmGenre": ["Comedy", "Drama", "Romance"],
+        "musicalGenres": ["Indie Rock", "Folk", "Soundtrack"],
+        "music": [
+        "All I Want Is You - Barry Louis Polisar",
+        "Anyone Else But You - The Moldy Peaches",
+        "Piazza, New York Catcher - Belle & Sebastian",
+        "Tire Swing - Kimya Dawson",
+        "Sea of Love - Cat Power"
+        ]
+    },
+    {
+        "nameFilm": "Garden State",
+        "release year": "2004",
+        "filmGenre": ["Comedy", "Drama", "Romance"],
+        "musicalGenres": ["Indie Rock", "Folk", "Soundtrack"],
+        "music": [
+        "Don't Panic - Coldplay",
+        "New Slang - The Shins",
+        "Such Great Heights - Iron & Wine",
+        "Caring Is Creepy - The Shins",
+        "In the Waiting Line - Zero 7"
+        ]
+    },
+    {
+        "nameFilm": "Lost in Translation",
+        "release year": "2003",
+        "filmGenre": ["Comedy", "Drama", "Romance"],
+        "musicalGenres": ["Soundtrack", "Ambient", "Indie"],
+        "music": [
+        "Alone in Kyoto - Air",
+        "Just Like Honey - The Jesus and Mary Chain",
+        "Sometimes - My Bloody Valentine",
+        "City Girl - Kevin Shields",
+        "Girls - Death in Vegas"
+        ]
+    },
+    {
+        "nameFilm": "Moonlight",
+        "release year": "2016",
+        "filmGenre": ["Drama"],
+        "musicalGenres": ["Soundtrack", "Ambient", "Classical"],
+        "music": [
+        "Little's Theme - Nicholas Britell",
+        "The Middle of the World - Nicholas Britell",
+        "Chef's Special - Nicholas Britell",
+        "Eden - Nicholas Britell",
+        "A Beautiful Thing - Nicholas Britell"
+        ]
+    },
+    {
+        "nameFilm": "O Homem que Copiava",
+        "release year": "2003",
+        "filmGenre": ["Comedy", "Drama"],
+        "musicalGenres": ["MPB", "Samba"],
+        "music": [
+            "O Mundo é um Moinho - Cartola",
+            "Águas de Março - Tom Jobim e Elis Regina",
+            "Construção - Chico Buarque",
+            "Sampa - Caetano Veloso",
+            "Apenas Mais Uma de Amor - Lulu Santos"
+        ]
+        },
+        {
+        "nameFilm": "Central do Brasil",
+        "release year": "1998",
+        "filmGenre": ["Drama"],
+        "musicalGenres": ["MPB", "Bossa Nova"],
+        "music": [
+            "O Mundo é um Moinho - Cartola",
+            "Construção - Chico Buarque",
+            "Aquarela - Toquinho",
+            "Garota de Ipanema - Tom Jobim e Vinícius de Moraes",
+            "Wave - Tom Jobim"
+        ]
+        },
+        {
+        "nameFilm": "Cidade de Deus",
+        "release year": "2002",
+        "filmGenre": ["Crime", "Drama"],
+        "musicalGenres": ["MPB", "Samba"],
+        "music": [
+            "Roda - Marcelo D2",
+            "Tema da Cidade de Deus - Antônio Pinto e Ed Côrtes",
+            "Mas, Que Nada - Jorge Ben Jor",
+            "Aquarela do Brasil - Ary Barroso",
+            "Canto de Ossanha - Baden Powell e Vinícius de Moraes"
+        ]
+        },
+        {
+        "nameFilm": "Tropa de Elite",
+        "release year": "2007",
+        "filmGenre": ["Action", "Drama"],
+        "musicalGenres": ["MPB", "Samba"],
+        "music": [
+            "O Mundo é um Moinho - Cartola",
+            "Canto de Ossanha - Baden Powell e Vinícius de Moraes",
+            "O Mundo é um Moinho - Cartola",
+            "Águas de Março - Tom Jobim e Elis Regina",
+            "Sampa - Caetano Veloso"
+        ]
+        },
+        {
+        "nameFilm": "O Que É Isso, Companheiro?",
+        "release year": "1997",
+        "filmGenre": ["Drama"],
+        "musicalGenres": ["Bossa Nova", "MPB"],
+        "music": [
+            "Chega de Saudade - João Gilberto",
+            "Garota de Ipanema - Tom Jobim e Vinícius de Moraes",
+            "Desafinado - Tom Jobim e Newton Mendonça",
+            "Corcovado - Tom Jobim",
+            "Águas de Março - Tom Jobim e Elis Regina"
+        ]
+        }
+    ]
+}

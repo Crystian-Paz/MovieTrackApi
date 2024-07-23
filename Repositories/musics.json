@@ -1,0 +1,944 @@
+{
+    "musics":
+    [
+        {
+        "name": "Where Is My Mind?",
+        "band": "Pixies",
+        "album": "Surfer Rosa",
+        "releaseYear": "1988",
+        "musicFilm": "Fight Club"
+        },
+        {
+        "name": "Goin' Out West",
+        "band": "Tom Waits",
+        "album": "Bone Machine",
+        "releaseYear": "1992",
+        "musicFilm": "Fight Club"
+        },
+        {
+        "name": "What Is Fight Club?",
+        "band": "The Dust Brothers",
+        "album": "Fight Club Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "Fight Club"
+        },
+        {
+        "name": "Psycho Boy Jack",
+        "band": "The Dust Brothers",
+        "album": "Fight Club Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "Fight Club"
+        },
+        {
+        "name": "Medulla Oblongata",
+        "band": "The Dust Brothers",
+        "album": "Fight Club Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "Fight Club"
+        },
+        {
+        "name": "One Summer's Day",
+        "band": "Joe Hisaishi",
+        "album": "Spirited Away Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Spirited Away"
+        },
+        {
+        "name": "The Sixth Station",
+        "band": "Joe Hisaishi",
+        "album": "Spirited Away Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Spirited Away"
+        },
+        {
+        "name": "Reprise",
+        "band": "Joe Hisaishi",
+        "album": "Spirited Away Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Spirited Away"
+        },
+        {
+        "name": "The Name of Life",
+        "band": "Joe Hisaishi",
+        "album": "Spirited Away Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Spirited Away"
+        },
+        {
+        "name": "Day of the River",
+        "band": "Joe Hisaishi",
+        "album": "Spirited Away Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Spirited Away"
+        },
+        {
+        "name": "Kaneda",
+        "band": "Geinoh Yamashirogumi",
+        "album": "Akira Soundtrack",
+        "releaseYear": "1988",
+        "musicFilm": "Akira"
+        },
+        {
+        "name": "Battle Against Clown",
+        "band": "Geinoh Yamashirogumi",
+        "album": "Akira Soundtrack",
+        "releaseYear": "1988",
+        "musicFilm": "Akira"
+        },
+        {
+        "name": "Tetsuo",
+        "band": "Geinoh Yamashirogumi",
+        "album": "Akira Soundtrack",
+        "releaseYear": "1988",
+        "musicFilm": "Akira"
+        },
+        {
+        "name": "Shohmyoh",
+        "band": "Geinoh Yamashirogumi",
+        "album": "Akira Soundtrack",
+        "releaseYear": "1988",
+        "musicFilm": "Akira"
+        },
+        {
+        "name": "Requiem",
+        "band": "Geinoh Yamashirogumi",
+        "album": "Akira Soundtrack",
+        "releaseYear": "1988",
+        "musicFilm": "Akira"
+        },
+        {
+        "name": "Funeral",
+        "band": "Colin Stetson",
+        "album": "Hereditary Soundtrack",
+        "releaseYear": "2018",
+        "musicFilm": "Hereditary"
+        },
+        {
+        "name": "Brother and Sister",
+        "band": "Colin Stetson",
+        "album": "Hereditary Soundtrack",
+        "releaseYear": "2018",
+        "musicFilm": "Hereditary"
+        },
+        {
+        "name": "Charlie",
+        "band": "Colin Stetson",
+        "album": "Hereditary Soundtrack",
+        "releaseYear": "2018",
+        "musicFilm": "Hereditary"
+        },
+        {
+        "name": "Mothers & Daughters",
+        "band": "Colin Stetson",
+        "album": "Hereditary Soundtrack",
+        "releaseYear": "2018",
+        "musicFilm": "Hereditary"
+        },
+        {
+        "name": "Reborn",
+        "band": "Colin Stetson",
+        "album": "Hereditary Soundtrack",
+        "releaseYear": "2018",
+        "musicFilm": "Hereditary"
+        },
+        {
+        "name": "Catch Me If You Can",
+        "band": "John Williams",
+        "album": "Catch Me If You Can Soundtrack",
+        "releaseYear": "2002",
+        "musicFilm": "Catch Me If You Can"
+        },
+        {
+        "name": "The Float",
+        "band": "John Williams",
+        "album": "Catch Me If You Can Soundtrack",
+        "releaseYear": "2002",
+        "musicFilm": "Catch Me If You Can"
+        },
+        {
+        "name": "Recollections (The Father's Theme)",
+        "band": "John Williams",
+        "album": "Catch Me If You Can Soundtrack",
+        "releaseYear": "2002",
+        "musicFilm": "Catch Me If You Can"
+        },
+        {
+        "name": "Learning the Ropes",
+        "band": "John Williams",
+        "album": "Catch Me If You Can Soundtrack",
+        "releaseYear": "2002",
+        "musicFilm": "Catch Me If You Can"
+        },
+        {
+        "name": "The Flash Comics Clue",
+        "band": "John Williams",
+        "album": "Catch Me If You Can Soundtrack",
+        "releaseYear": "2002",
+        "musicFilm": "Catch Me If You Can"
+        },
+        
+        {
+        "name": "Stuck on the Puzzle (Intro)",
+        "band": "Alex Turner",
+        "album": "Submarine Soundtrack",
+        "releaseYear": "2010",
+        "musicFilm": "Submarine"
+        },
+        {
+        "name": "Hiding Tonight",
+        "band": "Alex Turner",
+        "album": "Submarine Soundtrack",
+        "releaseYear": "2010",
+        "musicFilm": "Submarine"
+        },
+        {
+        "name": "Glass in the Park",
+        "band": "Alex Turner",
+        "album": "Submarine Soundtrack",
+        "releaseYear": "2010",
+        "musicFilm": "Submarine"
+        },
+        {
+        "name": "It's Hard to Get Around the Wind",
+        "band": "Alex Turner",
+        "album": "Submarine Soundtrack",
+        "releaseYear": "2010",
+        "musicFilm": "Submarine"
+        },
+        {
+        "name": "Stuck on the Puzzle",
+        "band": "Alex Turner",
+        "album": "Submarine Soundtrack",
+        "releaseYear": "2010",
+        "musicFilm": "Submarine"
+        },
+        {
+        "name": "Piledriver Waltz",
+        "band": "Alex Turner",
+        "album": "Submarine Soundtrack",
+        "releaseYear": "2010",
+        "musicFilm": "Submarine"
+        },
+        {
+        "name": "Supersymmetry",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Milk & Honey #1",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Loneliness #3 (Night Talking)",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Divorce Papers",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Song on the Beach",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Photograph",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Milk & Honey #2",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "We're All Leaving",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Dimensions",
+        "band": "Arcade Fire",
+        "album": "Her Soundtrack",
+        "releaseYear": "2013",
+        "musicFilm": "Her"
+        },
+        {
+        "name": "Nightcall",
+        "band": "Kavinsky",
+        "album": "OutRun",
+        "releaseYear": "2011",
+        "musicFilm": "Drive"
+        },
+        {
+        "name": "A Real Hero",
+        "band": "College & Electric Youth",
+        "album": "Drive Soundtrack",
+        "releaseYear": "2011",
+        "musicFilm": "Drive"
+        },
+        {
+        "name": "Under Your Spell",
+        "band": "Desire",
+        "album": "Drive Soundtrack",
+        "releaseYear": "2011",
+        "musicFilm": "Drive"
+        },
+        {
+        "name": "Tick of the Clock",
+        "band": "Chromatics",
+        "album": "Drive Soundtrack",
+        "releaseYear": "2011",
+        "musicFilm": "Drive"
+        },
+        {
+        "name": "I Drive",
+        "band": "Cliff Martinez",
+        "album": "Drive Soundtrack",
+        "releaseYear": "2011",
+        "musicFilm": "Drive"
+        },
+        {
+        "name": "Clubbed to Death",
+        "band": "Rob Dougan",
+        "album": "The Matrix Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "The Matrix"
+        },
+        {
+        "name": "Spybreak!",
+        "band": "Propellerheads",
+        "album": "The Matrix Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "The Matrix"
+        },
+        {
+        "name": "Dragula",
+        "band": "Rob Zombie",
+        "album": "The Matrix Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "The Matrix"
+        },
+        {
+        "name": "Mindfields",
+        "band": "The Prodigy",
+        "album": "The Matrix Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "The Matrix"
+        },
+        {
+        "name": "Wake Up",
+        "band": "Rage Against the Machine",
+        "album": "The Matrix Soundtrack",
+        "releaseYear": "1999",
+        "musicFilm": "The Matrix"
+        },
+        {
+        "name": "Comptine d'un autre été: L'après-midi",
+        "band": "Yann Tiersen",
+        "album": "Amélie Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Amélie"
+        },
+        {
+        "name": "La valse d'Amélie",
+        "band": "Yann Tiersen",
+        "album": "Amélie Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Amélie"
+        },
+        {
+        "name": "Les jours tristes",
+        "band": "Yann Tiersen",
+        "album": "Amélie Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Amélie"
+        },
+        {
+        "name": "L'autre valse d'Amélie",
+        "band": "Yann Tiersen",
+        "album": "Amélie Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Amélie"
+        },
+        {
+        "name": "La noyée",
+        "band": "Yann Tiersen",
+        "album": "Amélie Soundtrack",
+        "releaseYear": "2001",
+        "musicFilm": "Amélie"
+        },
+        {
+        "name": "The Heart Asks Pleasure First",
+        "band": "Michael Nyman",
+        "album": "The Piano Soundtrack",
+        "releaseYear": "1993",
+        "musicFilm": "The Piano"
+        },
+        {
+        "name": "Big My Secret",
+        "band": "Michael Nyman",
+        "album": "The Piano Soundtrack",
+        "releaseYear": "1993",
+        "musicFilm": "The Piano"
+        },
+        {
+        "name": "The Promise",
+        "band": "Michael Nyman",
+        "album": "The Piano Soundtrack",
+        "releaseYear": "1993",
+        "musicFilm": "The Piano"
+        },
+        {
+        "name": "Here to There",
+        "band": "Michael Nyman",
+        "album": "The Piano Soundtrack",
+        "releaseYear": "1993",
+        "musicFilm": "The Piano"
+        },
+        {
+        "name": "The Scent of Love",
+        "band": "Michael Nyman",
+        "album": "The Piano Soundtrack",
+        "releaseYear": "1993",
+        "musicFilm": "The Piano"
+        },
+        {
+        "name": "Making of Cyborg",
+        "band": "Kenji Kawai",
+        "album": "Ghost in the Shell Soundtrack",
+        "releaseYear": "1995",
+        "musicFilm": "Ghost in the Shell"
+        },
+        {
+        "name": "Ghosthack",
+        "band": "Kenji Kawai",
+        "album": "Ghost in the Shell Soundtrack",
+        "releaseYear": "1995",
+        "musicFilm": "Ghost in the Shell"
+        },
+        {
+        "name": "Nightstalker",
+        "band": "Kenji Kawai",
+        "album": "Ghost in the Shell Soundtrack",
+        "releaseYear": "1995",
+        "musicFilm": "Ghost in the Shell"
+        },
+        {
+        "name": "Floating Museum",
+        "band": "Kenji Kawai",
+        "album": "Ghost in the Shell Soundtrack",
+        "releaseYear": "1995",
+        "musicFilm": "Ghost in the Shell"
+        },
+        {
+        "name": "Virtual Crime",
+        "band": "Kenji Kawai",
+        "album": "Ghost in the Shell Soundtrack",
+        "releaseYear": "1995",
+        "musicFilm": "Ghost in the Shell"
+        },
+        {
+        "name": "Blade Runner",
+        "band": "Vangelis",
+        "album": "Blade Runner Soundtrack",
+        "releaseYear": "1982",
+        "musicFilm": "Blade Runner"
+        },
+        {
+        "name": "Memories of Green",
+        "band": "Vangelis",
+        "album": "Blade Runner Soundtrack",
+        "releaseYear": "1982",
+        "musicFilm": "Blade Runner"
+        },
+        {
+        "name": "Blade Runner Blues",
+        "band": "Vangelis",
+        "album": "Blade Runner Soundtrack",
+        "releaseYear": "1982",
+        "musicFilm": "Blade Runner"
+        },
+        {
+        "name": "Tales of the Future",
+        "band": "Vangelis",
+        "album": "Blade Runner Soundtrack",
+        "releaseYear": "1982",
+        "musicFilm": "Blade Runner"
+        },
+        {
+        "name": "Damask Rose",
+        "band": "Vangelis",
+        "album": "Blade Runner Soundtrack",
+        "releaseYear": "1982",
+        "musicFilm": "Blade Runner"
+        },
+        {
+        "name": "Another Day of Sun",
+        "band": "Justin Hurwitz",
+        "album": "La La Land Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "La La Land"
+        },
+        {
+        "name": "City of Stars",
+        "band": "Ryan Gosling & Emma Stone",
+        "album": "La La Land Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "La La Land"
+        },
+        {
+        "name": "Mia & Sebastian’s Theme",
+        "band": "Justin Hurwitz",
+        "album": "La La Land Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "La La Land"
+        },
+        {
+        "name": "A Lovely Night",
+        "band": "Ryan Gosling & Emma Stone",
+        "album": "La La Land Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "La La Land"
+        },
+        {
+        "name": "Planetarium",
+        "band": "Justin Hurwitz",
+        "album": "La La Land Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "La La Land"
+        },
+        {
+        "name": "Whiplash",
+        "band": "Hank Levy",
+        "album": "Whiplash Soundtrack",
+        "releaseYear": "2014",
+        "musicFilm": "Whiplash"
+        },
+        {
+        "name": "Caravan",
+        "band": "Juan Tizol & Duke Ellington",
+        "album": "Whiplash Soundtrack",
+        "releaseYear": "2014",
+        "musicFilm": "Whiplash"
+        },
+        {
+        "name": "Too Hip to Retire",
+        "band": "Tim Simonec",
+        "album": "Whiplash Soundtrack",
+        "releaseYear": "2014",
+        "musicFilm": "Whiplash"
+        },
+        {
+        "name": "Upswingin'",
+        "band": "Tim Simonec",
+        "album": "Whiplash Soundtrack",
+        "releaseYear": "2014",
+        "musicFilm": "Whiplash"
+        },
+        {
+        "name": "Overture",
+        "band": "Justin Hurwitz",
+        "album": "Whiplash Soundtrack",
+        "releaseYear": "2014",
+        "musicFilm": "Whiplash"
+        },
+        {
+        "name": "Believe",
+        "band": "Josh Groban",
+        "album": "The Polar Express Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "The Polar Express"
+        },
+        {
+        "name": "Hot Chocolate",
+        "band": "Tom Hanks",
+        "album": "The Polar Express Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "The Polar Express"
+        },
+        {
+        "name": "When Christmas Comes to Town",
+        "band": "Matthew Hall & Meagan Moore",
+        "album": "The Polar Express Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "The Polar Express"
+        },
+        {
+        "name": "Spirit of the Season",
+        "band": "Alan Silvestri",
+        "album": "The Polar Express Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "The Polar Express"
+        },
+        {
+        "name": "Seeing is Believing",
+        "band": "Alan Silvestri",
+        "album": "The Polar Express Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "The Polar Express"
+        },
+        {
+        "name": "Pennies from Heaven",
+        "band": "Louis Prima",
+        "album": "Elf Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Elf"
+        },
+        {
+        "name": "Sleigh Ride",
+        "band": "Ella Fitzgerald",
+        "album": "Elf Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Elf"
+        },
+        {
+        "name": "Baby, It's Cold Outside",
+        "band": "Leon Redbone & Zooey Deschanel",
+        "album": "Elf Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Elf"
+        },
+        {
+        "name": "Let It Snow, Let It Snow, Let It Snow",
+        "band": "Lena Horne",
+        "album": "Elf Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Elf"
+        },
+        {
+        "name": "What Christmas Means to Me",
+        "band": "Stevie Wonder",
+        "album": "Elf Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Elf"
+        },
+        {
+        "name": "All I Want Is You",
+        "band": "Barry Louis Polisar",
+        "album": "Juno Soundtrack",
+        "releaseYear": "2007",
+        "musicFilm": "Juno"
+        },
+        {
+        "name": "Anyone Else But You",
+        "band": "The Moldy Peaches",
+        "album": "Juno Soundtrack",
+        "releaseYear": "2007",
+        "musicFilm": "Juno"
+        },
+        {
+        "name": "Piazza, New York Catcher",
+        "band": "Belle & Sebastian",
+        "album": "Juno Soundtrack",
+        "releaseYear": "2007",
+        "musicFilm": "Juno"
+        },
+        {
+        "name": "Tire Swing",
+        "band": "Kimya Dawson",
+        "album": "Juno Soundtrack",
+        "releaseYear": "2007",
+        "musicFilm": "Juno"
+        },
+        {
+        "name": "Sea of Love",
+        "band": "Cat Power",
+        "album": "Juno Soundtrack",
+        "releaseYear": "2007",
+        "musicFilm": "Juno"
+        },
+        {
+        "name": "Don't Panic",
+        "band": "Coldplay",
+        "album": "Garden State Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "Garden State"
+        },
+        {
+        "name": "New Slang",
+        "band": "The Shins",
+        "album": "Garden State Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "Garden State"
+        },
+        {
+        "name": "Such Great Heights",
+        "band": "Iron & Wine",
+        "album": "Garden State Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "Garden State"
+        },
+        {
+        "name": "Caring Is Creepy",
+        "band": "The Shins",
+        "album": "Garden State Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "Garden State"
+        },
+        {
+        "name": "In the Waiting Line",
+        "band": "Zero 7",
+        "album": "Garden State Soundtrack",
+        "releaseYear": "2004",
+        "musicFilm": "Garden State"
+        },
+        {
+        "name": "Alone in Kyoto",
+        "band": "Air",
+        "album": "Lost in Translation Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Lost in Translation"
+        },
+        {
+        "name": "Just Like Honey",
+        "band": "The Jesus and Mary Chain",
+        "album": "Lost in Translation Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Lost in Translation"
+        },
+        {
+        "name": "Sometimes",
+        "band": "My Bloody Valentine",
+        "album": "Lost in Translation Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Lost in Translation"
+        },
+        {
+        "name": "City Girl",
+        "band": "Kevin Shields",
+        "album": "Lost in Translation Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Lost in Translation"
+        },
+        {
+        "name": "Girls",
+        "band": "Death in Vegas",
+        "album": "Lost in Translation Soundtrack",
+        "releaseYear": "2003",
+        "musicFilm": "Lost in Translation"
+        },
+        {
+        "name": "Little's Theme",
+        "band": "Nicholas Britell",
+        "album": "Moonlight Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "Moonlight"
+        },
+        {
+        "name": "The Middle of the World",
+        "band": "Nicholas Britell",
+        "album": "Moonlight Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "Moonlight"
+        },
+        {
+        "name": "Chef's Special",
+        "band": "Nicholas Britell",
+        "album": "Moonlight Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "Moonlight"
+        },
+        {
+        "name": "Eden",
+        "band": "Nicholas Britell",
+        "album": "Moonlight Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "Moonlight"
+        },
+        {
+        "name": "A Beautiful Thing",
+        "band": "Nicholas Britell",
+        "album": "Moonlight Soundtrack",
+        "releaseYear": "2016",
+        "musicFilm": "Moonlight"
+        },
+        {
+        "name": "O Mundo é um Moinho",
+        "band": "Cartola",
+        "album": "Cartola",
+        "releaseYear": "1974",
+        "musicFilm": "O Homem que Copiava"
+        },
+        {
+        "name": "Aquarela",
+        "band": "Toquinho",
+        "album": "Toquinho e Vinícius",
+        "releaseYear": "1983",
+        "musicFilm": "O Homem que Copiava"
+        },
+        {
+        "name": "Águas de Março",
+        "band": "Tom Jobim & Elis Regina",
+        "album": "Elis & Tom",
+        "releaseYear": "1974",
+        "musicFilm": "O Homem que Copiava"
+        },
+        {
+        "name": "Tropicália",
+        "band": "Caetano Veloso",
+        "album": "Tropicália",
+        "releaseYear": "1968",
+        "musicFilm": "O Homem que Copiava"
+        },
+        {
+        "name": "Construção",
+        "band": "Chico Buarque",
+        "album": "Construção",
+        "releaseYear": "1971",
+        "musicFilm": "O Homem que Copiava"
+        },
+        {
+        "name": "Tropicália",
+        "band": "Caetano Veloso",
+        "album": "Tropicália",
+        "releaseYear": "1968",
+        "musicFilm": "Central do Brasil"
+        },
+        {
+        "name": "Àguas de Março",
+        "band": "Tom Jobim & Elis Regina",
+        "album": "Elis & Tom",
+        "releaseYear": "1974",
+        "musicFilm": "Central do Brasil"
+        },
+        {
+        "name": "O Mundo é um Moinho",
+        "band": "Cartola",
+        "album": "Cartola",
+        "releaseYear": "1974",
+        "musicFilm": "Central do Brasil"
+        },
+        {
+        "name": "Aquarela",
+        "band": "Toquinho",
+        "album": "Toquinho e Vinícius",
+        "releaseYear": "1983",
+        "musicFilm": "Central do Brasil"
+        },
+        {
+        "name": "O Mundo é um Moinho",
+        "band": "Cartola",
+        "album": "Cartola",
+        "releaseYear": "1974",
+        "musicFilm": "Cidade de Deus"
+        },
+        {
+        "name": "Aquarela",
+        "band": "Toquinho",
+        "album": "Toquinho e Vinícius",
+        "releaseYear": "1983",
+        "musicFilm": "Cidade de Deus"
+        },
+        {
+        "name": "Águas de Março",
+        "band": "Tom Jobim & Elis Regina",
+        "album": "Elis & Tom",
+        "releaseYear": "1974",
+        "musicFilm": "Cidade de Deus"
+        },
+        {
+        "name": "Construção",
+        "band": "Chico Buarque",
+        "album": "Construção",
+        "releaseYear": "1971",
+        "musicFilm": "Cidade de Deus"
+        },
+        {
+        "name": "Tropicália",
+        "band": "Caetano Veloso",
+        "album": "Tropicália",
+        "releaseYear": "1968",
+        "musicFilm": "Cidade de Deus"
+        },
+        {
+        "name": "Panis et Circenses",
+        "band": "Os Mutantes",
+        "album": "Tropicália",
+        "releaseYear": "1968",
+        "musicFilm": "Tropa de Elite"
+        },
+        {
+        "name": "Tropicália",
+        "band": "Caetano Veloso",
+        "album": "Tropicália",
+        "releaseYear": "1968",
+        "musicFilm": "Tropa de Elite"
+        },
+        {
+        "name": "Construção",
+        "band": "Chico Buarque",
+        "album": "Construção",
+        "releaseYear": "1971",
+        "musicFilm": "Tropa de Elite"
+        },
+        {
+        "name": "Águas de Março",
+        "band": "Tom Jobim & Elis Regina",
+        "album": "Elis & Tom",
+        "releaseYear": "1974",
+        "musicFilm": "Tropa de Elite"
+        },
+        {
+        "name": "O Mundo é um Moinho",
+        "band": "Cartola",
+        "album": "Cartola",
+        "releaseYear": "1974",
+        "musicFilm": "Tropa de Elite"
+        },
+        {
+        "name": "Àguas de Março",
+        "band": "Tom Jobim & Elis Regina",
+        "album": "Elis & Tom",
+        "releaseYear": "1974",
+        "musicFilm": "O Que É Isso, Companheiro?"
+        },
+        {
+        "name": "Tropicália",
+        "band": "Caetano Veloso",
+        "album": "Tropicália",
+        "releaseYear": "1968",
+        "musicFilm": "O Que É Isso, Companheiro?"
+        },
+        {
+        "name": "Construção",
+        "band": "Chico Buarque",
+        "album": "Construção",
+        "releaseYear": "1971",
+        "musicFilm": "O Que É Isso, Companheiro?"
+        },
+        {
+        "name": "Aquarela",
+        "band": "Toquinho",
+        "album": "Toquinho e Vinícius",
+        "releaseYear": "1983",
+        "musicFilm": "O Que É Isso, Companheiro?"
+        },
+        {
+        "name": "Panis et Circenses",
+        "band": "Os Mutantes",
+        "album": "Tropicália",
+        "releaseYear": "1968",
+        "musicFilm": "O Que É Isso, Companheiro?"
+        }
+    ]
+}
