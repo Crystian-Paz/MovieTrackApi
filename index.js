@@ -1,7 +1,7 @@
 import express from 'express';
 import filmsRouter from './Routes/filmsRouter.js';
 import musicsRouter from './Routes/musicsRouter.js';
-const cors = require('cors');
+import cors from 'cors';
 
 const app = express();
 const port = 4000;
