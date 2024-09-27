@@ -5,14 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "node server.js",
-    "start": "node src/MovieTrackApi/Server.js",
+    "dev": "node index.js",
+    "start": "node src/MovieTrackApi/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2",
     "nodemon": "3.1.4"
   }

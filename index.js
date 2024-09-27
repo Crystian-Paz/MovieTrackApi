@@ -6,10 +6,7 @@ import cors from 'cors';
 const app = express();
 const port = 4000;
 
-app.use(cors({
-    origin: 'http://localhost:5173' // Substitua pela origem do seu frontend
-}));
-
+app.use(cors())
 app.use(express.json());
 app.use(filmsRouter);
 app.use(musicsRouter);

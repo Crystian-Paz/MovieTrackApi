@@ -3,6 +3,7 @@
         {
         "nameFilm": "Fight Club",
         "releaseYear": "1999",
+        "ImagemUrl": "assets/FightClub.png",
         "filmGenre": ["Drama", "Thriller"],
         "musicalGenres": ["Rock", "Electronic"],
         "music": [
@@ -13,9 +14,10 @@
             "Medulla Oblongata - The Dust Brothers"
         ]
         },
-        {
+        {   
         "nameFilm": "Spirited Away",
-        "release year": "2001",
+        "releaseYear": "2001",
+        "ImagemUrl": "assets/SpiritedAway.png",
         "filmGenre": ["Animation", "Adventure", "Family", "Fantasy"],
         "musicalGenres": ["Soundtrack", "Classical"],
         "music": [
@@ -28,7 +30,8 @@
         },
         {
         "nameFilm": "Akira",
-        "release year": "1988",
+        "releaseYear": "1988",
+        "ImagemUrl": "assets/Akira.png",
         "filmGenre": ["Animation", "Action", "Drama", "Sci-Fi"],
         "musicalGenres": ["Soundtrack", "Electronic", "Traditional"],
         "music": [
@@ -41,7 +44,8 @@
         },
         {
         "nameFilm": "Hereditary",
-        "release year": "2018",
+        "releaseYear": "2018",
+        "ImagemUrl": "assets/Hereditary.png",
         "filmGenre": ["Drama", "Horror", "Mystery", "Thriller"],
         "musicalGenres": ["Soundtrack", "Classical"],
         "music": [
@@ -54,7 +58,7 @@
         },
         {
         "nameFilm": "Catch Me If You Can",
-        "release year": "2002",
+        "releaseYear": "2002",
         "filmGenre": ["Biography", "Crime", "Drama"],
         "musicalGenres": ["Jazz", "Soundtrack"],
         "music": [
@@ -68,7 +72,8 @@
     
         {
         "nameFilm": "Submarine",
-        "release year": "2010",
+        "releaseYear": "2010",
+        "ImagemUrl": "assets/Submarine.png",
         "filmGenre": ["Comedy", "Drama", "Romance"],
         "musicalGenres": ["Indie Rock", "Folk", "Soundtrack"],
         "music": [
@@ -82,7 +87,8 @@
     },
     {
         "nameFilm": "Her",
-        "release year": "2013",
+        "releaseYear": "2013",
+        "ImagemUrl": "assets/Her.png",
         "filmGenre": ["Drama", "Romance", "Sci-Fi"],
         "musicalGenres": ["Soundtrack", "Ambient", "Indie"],
         "music": [
@@ -99,7 +105,7 @@
     },
     {
         "nameFilm": "Drive",
-        "release year": "2011",
+        "releaseYear": "2011",
         "filmGenre": ["Action", "Drama"],
         "musicalGenres": ["Electronic", "Synthwave"],
         "music": [
@@ -112,7 +118,7 @@
     },
     {
         "nameFilm": "The Matrix",
-        "release year": "1999",
+        "releaseYear": "1999",
         "filmGenre": ["Action", "Sci-Fi"],
         "musicalGenres": ["Rock", "Electronic"],
         "music": [
@@ -125,7 +131,7 @@
     },
     {
         "nameFilm": "Amélie",
-        "release year": "2001",
+        "releaseYear": "2001",
         "filmGenre": ["Comedy", "Romance"],
         "musicalGenres": ["Soundtrack", "Classical"],
         "music": [
@@ -138,7 +144,7 @@
     },
     {
         "nameFilm": "The Piano",
-        "release year": "1993",
+        "releaseYear": "1993",
         "filmGenre": ["Drama", "Romance"],
         "musicalGenres": ["Soundtrack", "Classical"],
         "music": [
@@ -151,7 +157,7 @@
     },
     {
         "nameFilm": "Ghost in the Shell",
-        "release year": "1995",
+        "releaseYear": "1995",
         "filmGenre": ["Animation", "Action", "Sci-Fi"],
         "musicalGenres": ["Soundtrack", "Electronic", "Traditional"],
         "music": [
@@ -164,7 +170,7 @@
     },
     {
         "nameFilm": "Blade Runner",
-        "release year": "1982",
+        "releaseYear": "1982",
         "filmGenre": ["Sci-Fi", "Thriller"],
         "musicalGenres": ["Soundtrack", "Electronic", "Ambient"],
         "music": [
@@ -177,7 +183,7 @@
     },
     {
         "nameFilm": "La La Land",
-        "release year": "2016",
+        "releaseYear": "2016",
         "filmGenre": ["Comedy", "Drama", "Music", "Romance"],
         "musicalGenres": ["Jazz", "Soundtrack"],
         "music": [
@@ -190,7 +196,7 @@
     },
     {
         "nameFilm": "Whiplash",
-        "release year": "2014",
+        "releaseYear": "2014",
         "filmGenre": ["Drama", "Music"],
         "musicalGenres": ["Jazz", "Soundtrack"],
         "music": [
@@ -203,7 +209,7 @@
     },
     {
         "nameFilm": "The Polar Express",
-        "release year": "2004",
+        "releaseYear": "2004",
         "filmGenre": ["Animation", "Adventure", "Family"],
         "musicalGenres": ["Soundtrack", "Christmas"],
         "music": [
@@ -216,7 +222,7 @@
     },
     {
         "nameFilm": "Juno",
-        "release year": "2007",
+        "releaseYear": "2007",
         "filmGenre": ["Comedy", "Drama", "Romance"],
         "musicalGenres": ["Indie Rock", "Folk", "Soundtrack"],
         "music": [
@@ -229,7 +235,7 @@
     },
     {
         "nameFilm": "Garden State",
-        "release year": "2004",
+        "releaseYear": "2004",
         "filmGenre": ["Comedy", "Drama", "Romance"],
         "musicalGenres": ["Indie Rock", "Folk", "Soundtrack"],
         "music": [
@@ -242,7 +248,7 @@
     },
     {
         "nameFilm": "Lost in Translation",
-        "release year": "2003",
+        "releaseYear": "2003",
         "filmGenre": ["Comedy", "Drama", "Romance"],
         "musicalGenres": ["Soundtrack", "Ambient", "Indie"],
         "music": [
@@ -255,7 +261,7 @@
     },
     {
         "nameFilm": "Moonlight",
-        "release year": "2016",
+        "releaseYear": "2016",
         "filmGenre": ["Drama"],
         "musicalGenres": ["Soundtrack", "Ambient", "Classical"],
         "music": [
@@ -268,7 +274,7 @@
     },
     {
         "nameFilm": "O Homem que Copiava",
-        "release year": "2003",
+        "releaseYear": "2003",
         "filmGenre": ["Comedy", "Drama"],
         "musicalGenres": ["MPB", "Samba"],
         "music": [
@@ -281,7 +287,7 @@
         },
         {
         "nameFilm": "Central do Brasil",
-        "release year": "1998",
+        "releaseYear": "1998",
         "filmGenre": ["Drama"],
         "musicalGenres": ["MPB", "Bossa Nova"],
         "music": [
@@ -294,7 +300,7 @@
         },
         {
         "nameFilm": "Cidade de Deus",
-        "release year": "2002",
+        "releaseYear": "2002",
         "filmGenre": ["Crime", "Drama"],
         "musicalGenres": ["MPB", "Samba"],
         "music": [
@@ -307,7 +313,7 @@
         },
         {
         "nameFilm": "Tropa de Elite",
-        "release year": "2007",
+        "releaseYear": "2007",
         "filmGenre": ["Action", "Drama"],
         "musicalGenres": ["MPB", "Samba"],
         "music": [
@@ -320,7 +326,7 @@
         },
         {
         "nameFilm": "O Que É Isso, Companheiro?",
-        "release year": "1997",
+        "releaseYear": "1997",
         "filmGenre": ["Drama"],
         "musicalGenres": ["Bossa Nova", "MPB"],
         "music": [
